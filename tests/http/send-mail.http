@@ -1,0 +1,8 @@
+POST https://61xvoezyld.execute-api.us-east-1.amazonaws.com/contacts
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "oscarkaka222@gmail.com",
+  "message": "teste"
+}
